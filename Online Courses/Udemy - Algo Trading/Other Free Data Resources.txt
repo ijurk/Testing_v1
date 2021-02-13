@@ -1,0 +1,30 @@
+Other Free Data Resources
+Placeholder to share details of other free financial data sources not included in the lecture videos.
+
+I will keep updating/adding links and the corresponding python codes as I come across these sources. Special shout out to Reza Sadeghi for recommending these great free resources.
+
+
+
+1) Financialmodelingprep.com – Excellent resource to get stock information and financial information of US stocks. Also provides key ratios, DCF etc.
+
+https://financialmodelingprep.com/developer/docs/company-key-metrics-api
+
+
+
+Please refer code fmp.py for extracting financial data programmatically. Above link also has sample codes.
+
+
+
+2) Stockrow.com – Provides financial information, key stats, historical data on ratios etc. Also provides a very good screener
+
+
+
+Please refer code stockrow.py (created by Reza and reviewed by me) for extracting financial data programmatically.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Feel free to suggest other great data resources and I will include them under this section.
